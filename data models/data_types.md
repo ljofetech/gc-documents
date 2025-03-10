@@ -1,4 +1,4 @@
-## Data types
+# Data types
 
 | Database      | Data Type (object_type)  | Description                                                   |
 |---------------|---------------------------|---------------------------------------------------------------|
@@ -10,8 +10,4 @@
 | Notification  | notification              | Represents notifications sent to users about events on the platform |
 | CleanupAction | cleanup_action            | Represents actions taken during environmental cleanup activities |
 | Complaint     | complaint                 | Represents user complaints related to pollution |
-| EducationalResource | educational_resource | Stores educational materials related to pollution control |
 | Achievement   | achievement               | Represents the achievements earned by users for their contributions |
-| PollutionStatistic | pollution_statistic   | Stores statistical data on pollution levels and trends |
-| BusinessPartner | business_partner         | Represents business partners offering rewards or discounts to active users |
-| Role          | role                      | Manages user roles and permissions within the platform |
